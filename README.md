@@ -1,11 +1,3 @@
-# Mental Fitness Tracker
-![MFS_logo](https://github.com/Abhishek676062/Mental-Fitness-Tracker/assets/81158782/bf40cf12-b8d2-4710-9ad5-749aac0ffb4b)
-
-
-The Mental Fitness Tracker is a web application of AI development as part of my IBM  Artificial Intelligence internship project. The primary objective of this project is to help users monitor and improve their mental well-being.
-
-You can also explore Mental Fitness Tracker via video 
-[Mental-Fitness-Tracker](https://drive.google.com/file/d/1WqolTo8TOKeo2q4eTHKfjX6DGwD51egd/view?usp=drive_link)
 
 ## Table of Contents
 
